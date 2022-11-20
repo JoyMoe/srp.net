@@ -1,3 +1,3 @@
-[submodule "src/srp.tests/TestVectors"]
-	path = src/srp.tests/TestVectors
+[submodule "srp.tests/TestVectors"]
+	path = srp.tests/TestVectors
 	url = https://github.com/secure-remote-password/test-vectors.git

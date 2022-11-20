@@ -1,4 +1,4 @@
-﻿<img src="https://raw.githubusercontent.com/secure-remote-password/srp.net/master/images/srp.net.png" width="128" height="128" />
+<img src="https://raw.githubusercontent.com/secure-remote-password/srp.net/master/images/srp.net.png" width="128" height="128" />
 
 # Secure Remote Password for .NET
 
